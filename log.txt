@@ -1,2 +1,6 @@
 Aqui el log
+<<<<<<< HEAD
 Esto es un cambio local
+=======
+Cambio remoto
+>>>>>>> 71838fab46f55f49585d9ad85c6dbc90ce3bbb4d
